@@ -1,0 +1,41 @@
+.pb_section, .pb_footer {
+    background-color: #fffdfb;
+}
+
+.cover-bg-ricefield {
+    background-color: rgb(245, 255, 238);
+}
+
+.pb_navbar ul li a {
+    font-size: 14px !important;
+}
+
+@media (min-width: 767px) {
+    #testi {
+        height: 1000px
+}
+}
+
+@media (min-width: 991px) {
+    #testi {
+        height: 700px
+}
+}
+
+@media (min-width: 1200px) {
+    #testi {
+        height: 600px
+}
+}
+
+#section-events {
+    background-color: rgb(245, 255, 238);
+}
+
+.card-deck .card .card-body {
+    background-color: #fffdfb;
+}
+
+#openinghours p {
+    font-size: 20px;
+}
